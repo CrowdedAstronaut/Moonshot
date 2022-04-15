@@ -1,15 +1,16 @@
 {
   "images" : [
     {
-      "filename" : "Pink Table Productions_LOGO-A1.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "mattingly@2x.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "mattingly@3x.jpg",
       "idiom" : "universal",
       "scale" : "3x"
     }
